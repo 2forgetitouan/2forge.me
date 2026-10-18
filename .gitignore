@@ -1,0 +1,17 @@
+*.test
+*.out
+/vendor/
+
+# Editor
+.vscode/
+.claude
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.env
